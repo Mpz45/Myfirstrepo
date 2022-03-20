@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+https://mpz45.github.io/RunBuddy/
 
 ## Contribution
 Made with ❤️ by Mihir Patel
